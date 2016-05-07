@@ -3,6 +3,8 @@
 setwd("~/Data_Science/coursera-repdata/project1")
 library(ggplot2)
 library (dplyr)
+library (markdown)
+library (knitr)
 #  Loading and preprocessing the data
 #  Show any code that is needed to
 #  Load the data (i.e. 𝚛𝚎𝚊𝚍.𝚌𝚜𝚟())
